@@ -9,7 +9,7 @@ Task-2
 - [Dataset](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
 ----------------------------------------------------------------------
 Task-4
-## [SALES PREDICTION USING PYTHON](https://www.canva.com/link?target=https%3A%2F%2Fthecleverprogrammer.com%2F2021%2F10%2F17%2Firis-flower-classification-with-machine-learning%2F&design=DAFSZMvBiCI&accessRole=viewer&linkSource=document)
+## SALES PREDICTION USING PYTHON
 - Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection. 
 - In businesses that offer products or services, the role of a Data Scientist is crucial for predicting future sales. They utilize machine learning techniques in Python to analyze and interpret data, allowing them to make informed decisions regarding advertising costs. By leveraging these predictions, businesses can optimize their advertising strategies and maximize sales potential. Let's embark on the journey of sales prediction using machine learning in Python.
 - Dataset-->
@@ -18,7 +18,7 @@ Task-4
 (Use any one Dataset)
 ----------------------------------------------------------------------
 Task-5
-## [CREDIT CARD FRAUD DETECTION](https://www.canva.com/link?target=https%3A%2F%2Fthecleverprogrammer.com%2F2021%2F10%2F17%2Firis-flower-classification-with-machine-learning%2F&design=DAFSZMvBiCI&accessRole=viewer&linkSource=document)
+## CREDIT CARD FRAUD DETECTION
 - Build a machine learning model to identify fraudulent credit card transactions.
 - Preprocess and normalize the transaction data, handle class imbalance issues, and split the dataset into training and testing sets.
 - Train a classification algorithm, such as logistic regression or random forests, to classify transactions as fraudulent or genuine.
